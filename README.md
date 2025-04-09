@@ -3,7 +3,7 @@ My name is Lars Bendik, and I'm part of an intense programming course called Kod
 
 - 🌱 I’m currently learning C#, ASP, SQL, Node, and other backend-related languages.
 - 🔭 I’m currently working on personal projects, learning from Microsoft Learn, and from the course.
-- ⚡ Fun fact: I paint a lot of miniatures, which you can find here: <instagram link> 
+- ⚡ Fun fact: I paint a lot of miniatures, which I'll make an instagram at some point. <instagram link> 
 <!--
 **LarsBBRam/LarsBBRam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
