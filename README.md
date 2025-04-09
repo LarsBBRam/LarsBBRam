@@ -1,5 +1,9 @@
 ## Hi there 👋
+My name is Lars Bendik, and I'm part of an intense programming course called Kodehode, specifically the backend part.
 
+- 🌱 I’m currently learning C#, ASP, SQL, Node, and other backend-related languages.
+- 🔭 I’m currently working on personal projects.
+- ⚡ Fun fact: I paint a lot of miniatures, which you can find here: <instagram link> 
 <!--
 **LarsBBRam/LarsBBRam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
