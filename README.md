@@ -1,9 +1,11 @@
 ## Hi there 👋
 My name is Lars Bendik, and I'm part of an intense programming course called Kodehode, specifically the backend part.
 
-- 🌱 I’m currently learning C#, ASP, SQL, Node, and other backend-related languages.
-- 🔭 I’m currently working on personal projects, learning from Microsoft Learn, and from the course.
-- ⚡ Fun fact: I paint a lot of miniatures, which I'll make an instagram at some point. <instagram link> 
+- 🌱 I’m currently focusing on mastering C#, ASP, SQL, Node, and other backend-related languages like Kotlin.
+- 🔭 I’m working on personal projects, completing a lot of Microsoft Learns different challenges, and messing around with Java/Kotlin/Python.
+-  
+- ⚡ Fun fact: I paint a lot of miniatures which I might make an instagram at some point. If I do, the link will be here.
+- ⚡ Another fun fact: I'll soon be collaborating on a pretty cool local AI-program using CSnakes, to combine C# and Python.
 <!--
 **LarsBBRam/LarsBBRam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
